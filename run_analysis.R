@@ -1,4 +1,4 @@
-#RUN_ANALYSIS.R
+# RUN_ANALYSIS.R
 
 #Coursera-Getting and cleaning data- Course assignment.
 #I load the datasets for the assignment. 
