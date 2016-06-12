@@ -1,6 +1,7 @@
 # CodeBook for the assignment
 In this CodeBook you can find the variables the data. The trasfmormation on those variables are those that are performed by the run_analysis.R file.
 The variables are means and standards deviations of the features used in the original experiment.
+To run the script run_analysis.R you have to have the data required for the assignment in your working directory.
 
 ## ID and labels
 "subject" refers to the partecipants' ID.
