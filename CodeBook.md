@@ -4,12 +4,19 @@ The variables are means and standards deviations of the features used in the ori
 
 ## ID and labels
 "subject" refers to the partecipants' ID.
+
 "activity_labels": 
+
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING
 
 
